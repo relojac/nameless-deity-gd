@@ -1,12 +1,1 @@
-[
-  {
-    "name": "Edenic Whispers",
-    "artist": "ENNWAY!",
-    "source": "host",
-    "host": "https://github.com/relojac/nameless-deity-gd/raw/refs/heads/main/Edenic%20Whispers.mp3",
-    "songs": [
-      10006707
-    ]
-  }
-]
-  
+{"manifest":1,"name":"Nameless Deity","id":"nameless-deity-nongs","description":"Nameless Deity NONG Index","lastUpdate":1724612800,"nongs":{"hosted":{https://github.com/DominicKarma/WrathOfTheGodsPublic/raw/refs/heads/main/Assets/Sounds/Music/EternalGarden.ogg},"youtube":{:{"name":"Edenic Whispers","artist":"ENNWAY","startOffset":0,"songs":[945695]}}}}
