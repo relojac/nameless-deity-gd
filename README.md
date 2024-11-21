@@ -1,2 +1,2 @@
-# nameless-deity-gd
-Every NONG used in relojac's Nameless Deity Geometry Dash port.
+# Nameless Deity GD NONG Index
+This repository contains every NONG (Not on Newgrounds Song) for the Geometry Dash port of the Nameless Deity bossfight from Terraria's [Calamity: Wrath of the Gods](https://steamcommunity.com/sharedfiles/filedetails/?id=2995193002) mod. All credits go to Lucille / Dominic Karma, ENNWAY, Heart Plus Up!, Moonburn and a handful of other people who helped develop the mod.
